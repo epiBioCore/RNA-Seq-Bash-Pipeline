@@ -1,0 +1,4 @@
+T2021_test1_1	A_1	A	T2021_test1_1_R1.fastq.gz	T2021_test1_1_R2.fastq.gz
+T2021_test1_2	A_2	A	T2021_test1_2_R1.fastq.gz	T2021_test1_2_R2.fastq.gz
+T2021_test2_1	B_1	B	T2021_test2_1_R1.fastq.gz	T2021_test2_1_R2.fastq.gz
+T2021_test2_2	B_2	B	T2021_test2_2_R1.fastq.gz	T2021_test2_2_R2.fastq.gz
