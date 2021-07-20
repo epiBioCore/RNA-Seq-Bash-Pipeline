@@ -529,4 +529,5 @@ which trimmomatic-0.39.jar | cut -f5 -d "/" | cut -f1,2 -d "." &>> $outDir/softw
 STAR --version &>> $outDir/softwareVersions.txt
 samtools --version | grep "samtools" &>> $outDir/softwareVersions.txt
 echo stringtie $(stringtie --version) &>> $outDir/softwareVersions.txt
-gffcompare --version &>> $outDir/softwareVersions.txt
+#gffcompare --version &>> $outDir/softwareVersions.txt
+echo "run successfully complete!!!"
